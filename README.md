@@ -1,6 +1,6 @@
 # Writing, etc.
 
-Index of writing, presentations, etc. on technical topics
+Index of my writing, presentations, etc. on technical topics
 
 ## FactSet Recipes
 * [Deliver Intelligence to All Channels with a Simple Streaming Architecture](https://developer.factset.com/recipe-catalog/deliver-intelligence-to-all-channels-simple-streaming-architecture)
